@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- TranslationTools binary -->
+    <project name="DelphinPETER/TranslationTools" path="tools/TranslationTools" remote="github" revision="master"/>
+    <!--  Omnirom config file -->
+    <project name="DelphinPETER/TranslationTools" path="tools/TranslationTools/config" remote="github" revision="omnirom_android-4.4"/>
+</manifest>
