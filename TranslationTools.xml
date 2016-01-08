@@ -3,5 +3,5 @@
     <!-- TranslationTools binary -->
     <project name="DelphinPETER/TranslationTools" path="tools/TranslationTools" remote="github" revision="master"/>
     <!--  Omnirom config file -->
-    <project name="DelphinPETER/TranslationTools" path="tools/TranslationTools/config" remote="github" revision="omnirom_android-4.4"/>
+    <project name="DelphinPETER/TranslationTools" path="tools/TranslationTools/config" remote="github" revision="omnirom_android-6.0"/>
 </manifest>
