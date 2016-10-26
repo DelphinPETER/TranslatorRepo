@@ -2,6 +2,6 @@
 <manifest>
     <!-- TranslationTools binary -->
     <project name="DelphinPETER/TranslationTools" path="tools/TranslationTools" remote="github" revision="master"/>
-    <!-- Dirty Unicorns config file -->
-    <project name="DelphinPETER/TranslationTools" path="tools/TranslationTools/config" remote="github" revision="du70"/>
+    <!-- Tesla config file -->
+    <project name="DelphinPETER/TranslationTools" path="tools/TranslationTools/config" remote="github" revision="Tesla-M"/>
 </manifest>
