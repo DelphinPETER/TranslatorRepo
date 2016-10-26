@@ -1,9 +1,9 @@
-Dirty Unicorns Translator Repositories
+Tesla Translator Repositories
 ==========================
 
-The local manifest file needed for Dirty Unicorns's translators.
+The local manifest file needed for Tesla's translators.
 
-These local_manifest file are dedicated for branch du70
+These local_manifest file are dedicated for branch M
 ------
 
 You need to be in your source folder.
@@ -13,7 +13,7 @@ Add TranslationTools repository:
 
 If you want to add TranslationTools to help you to find untranslated strings.
 
-    curl https://raw.githubusercontent.com/DelphinPETER/TranslatorRepo/du70/TranslationTools.xml > .repo/local_manifests/TranslationTools.xml
+    curl https://raw.githubusercontent.com/DelphinPETER/TranslatorRepo/Tesla-M/TranslationTools.xml > .repo/local_manifests/TranslationTools.xml
     repo sync
     
 When the sync is finished, you can find TranslationTools under SOURCE_FOLDER/tools/TranslationTools
