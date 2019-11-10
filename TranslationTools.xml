@@ -3,5 +3,5 @@
     <!-- TranslationTools binary -->
     <project name="DelphinPETER/TranslationTools" path="tools/TranslationTools" remote="github" revision="master"/>
     <!-- Dirty Unicorns config file -->
-    <project name="DelphinPETER/TranslationTools" path="tools/TranslationTools/config" remote="github" revision="du90"/>
+    <project name="DelphinPETER/TranslationTools" path="tools/TranslationTools/config" remote="github" revision="du10"/>
 </manifest>
